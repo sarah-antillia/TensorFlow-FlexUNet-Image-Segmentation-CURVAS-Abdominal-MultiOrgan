@@ -252,7 +252,7 @@ image_height   = 512
 image_channels = 3
 input_normalize = True
 normalization  = False
-num_classes    = 5
+num_classes    = 4
 base_filters   = 16
 base_kernels   = (11,11)
 num_layers     = 8
@@ -294,13 +294,14 @@ Enabled early stopping callback with patience parameter.
 patience      = 10
 </pre>
 <b>RGB Color map</b><br>
-Specifed rgb color map dict for CURVAS-Annotation-1 1+2 classes.<br>
+Specifed rgb color map dict for CURVAS-Annotation-1 1+3 classes.<br>
 <pre>
 [mask]
 mask_datatyoe    = "categorized"
 mask_file_format = ".png"
-;CURVAS-Annotation-1 1+2 classes.
-rgb_map = {(0,0,0):0, (0,255,0):1,(255,0,0):2, }
+;CURVAS-Annotation-1 rgb color map dict for 1+3 classes.
+;                      pancreas ,     kidney,        liver
+rgb_map = {(0,0,0):0, (0,255,255):1, (255,255,0):2, (255, 0,255):3 }
 </pre>
 <b>Epoch change inference callback</b><br>
 Enabled <a href="./src/EpochChangeInferencer.py">epoch_change_infer callback</a></b>.<br>
