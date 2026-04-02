@@ -13,7 +13,7 @@ CURVAS dataset</a> on the zenodo.org
 <br><br>
 <hr>
 <b>Comparison of Image Segmentation for CURVAS Abdominal MultiOrgan Images</b><br>
-As shown below, the three colorized multi-organ regions for each input-image appear similar to each other, which were obtained by calling  
+As shown below, the three colorized multi-organ prediction regions for each input-image appear similar to each other, which were obtained by calling  
 a prediction method of the segmentation models trained by three multi annotation datasets. 
 <br><br>
 <b>class_color_map = {Pancreas:cyan, Kidney:yellow, Liver:mazenta}</b>
