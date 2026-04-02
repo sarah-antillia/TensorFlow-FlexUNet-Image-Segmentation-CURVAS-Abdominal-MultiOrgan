@@ -20,7 +20,7 @@ a prediction method of the segmentation models trained by three multi annotation
 <br><br>
 <table style="table-layout: fixed;">
 <tr>
-<th  width="240" height="auto">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input: image&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th  width="240" height="auto">Input: image</th>
 <th  width="240" height="auto">Prediction:Annotation-1</th>
 <th width="240" height="auto">Prediction:Annotation-2</th>
 <th  width="240" height="auto">Prediction:Annotation-3</th>
