@@ -183,8 +183,8 @@ the command-line argument.<br>
 <br>
 <h3>2.4 Projects Folder Structure</h3>
 As illustrated below, <b>./projects/TensorFlowFlexUNet</b> folder contains three sub-folders corresponding
-to the three Annotations dataset.<br>
-Each sub-folder contains four bat files to train, evaluate, infer and compare for the 
+to the three Annotations datasets.<br>
+Each sub-folder contains four bat files to train, evaluate, infer and predict for the 
 FlexUNet model, and two configuration files.<br>
 Please move to those sub-folders, and run three bat files in each sub-folder to train FlexUNetModel corresponding
 to the annotation in <b>./dataset</b> folder.<br>
