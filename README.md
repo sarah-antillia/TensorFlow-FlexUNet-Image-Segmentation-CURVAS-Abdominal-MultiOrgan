@@ -294,7 +294,7 @@ Enabled early stopping callback with patience parameter.
 patience      = 10
 </pre>
 <b>RGB Color map</b><br>
-Specifed rgb color map dict for CURVAS-Annotation-1 1+3 classes.<br>
+Specifed rgb color map dict for CURVAS-Annotation 1+3 classes.<br>
 <pre>
 [mask]
 mask_datatyoe    = "categorized"
