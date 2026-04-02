@@ -26,41 +26,41 @@ a prediction method of the segmentation models trained by three multi annotation
 <th>Prediction:Annotation-3-Model</th>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10006_427.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10006_427.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10006_427.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10006_427.png" width="300" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10006_427.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10006_427.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10006_427.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10006_427.png" width="260" height="auto"></td>
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10012_444.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10012_444.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10012_444.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10012_444.png" width="300" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10012_444.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10012_444.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10012_444.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10012_444.png" width="260" height="auto"></td>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10002_425.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10002_425.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10002_425.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10002_425.png" width="300" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10002_425.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10002_425.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10002_425.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10002_425.png" width="260" height="auto"></td>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10004_464.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10004_464.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10004_464.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10004_464.png" width="300" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10004_464.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10004_464.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10004_464.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10004_464.png" width="260" height="auto"></td>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10006_547.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10006_547.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10006_547.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10006_547.png" width="300" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10006_547.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10006_547.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10006_547.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10006_547.png" width="260" height="auto"></td>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10008_516.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10008_516.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10008_516.png" width="300" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10008_516.png" width="300" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10008_516.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare_output/10008_516.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-2/compare_output/10008_516.png" width="260" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10008_516.png" width="260" height="auto"></td>
 </tr>
 </table>
 <hr>
