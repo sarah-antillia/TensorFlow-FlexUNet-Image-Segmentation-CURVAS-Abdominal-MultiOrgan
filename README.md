@@ -18,6 +18,11 @@ a prediction method of the segmentation models trained by three multi annotation
 <br><br>
 <b>class_color_map = {Pancreas:cyan, Kidney:yellow, Liver:mazenta}</b>
 <br><br>
+<table>
+<tr><td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/asset/pred_top0.png" width="1024" height="auto"></td></tr>
+<tr><td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/asset/pred_bottom.png" width="1024" height="auto"></td></tr>
+</table>
+<!--
 <table style="table-layout: fixed;">
 <tr>
 <th  width="240" height="auto">Input: image</th>
@@ -63,6 +68,7 @@ a prediction method of the segmentation models trained by three multi annotation
 <td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-3/compare_output/10008_516.png" width="240" height="auto"></td>
 </tr>
 </table>
+-->
 <hr>
 <br>
 <h3>1. Dataset Citation</h3>
