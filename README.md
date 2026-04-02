@@ -21,9 +21,9 @@ a prediction method of the segmentation models trained by three multi annotation
 <table>
 <tr>
 <th  width="250" height="auto">Input: image</th>
-<th  width="250" height="auto">Prediction:Annotation-1-Model</th>
-<th width="250" height="auto">Prediction:Annotation-2-Model</th>
-<th  width="250" height="auto">Prediction:Annotation-3-Model</th>
+<th  width="250" height="auto">Prediction:Annotation-1</th>
+<th width="250" height="auto">Prediction:Annotation-2</th>
+<th  width="250" height="auto">Prediction:Annotation-3</th>
 </tr>
 <tr>
 <td><img src="./projects/TensorFlowFlexUNet/CURVAS-Annotation-1/compare/images/10006_427.png" width="250" height="auto"></td>
