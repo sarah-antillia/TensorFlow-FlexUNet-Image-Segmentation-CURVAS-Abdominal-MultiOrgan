@@ -1,4 +1,4 @@
-<h2>TensorFlow-FlexUNet-Image-Segmentation-CURVAS-Abdominal-MultiOrgan (2026/04/02)</h2>
+<h2>TensorFlow-FlexUNet-Image-Segmentation-CURVAS-MICCAI2024-Abdominal-MultiOrgan (2026/04/02)</h2>
 Sarah T. Arai<br>
 Software Laboratory antillia.com<br><br>
 This is the first experiment of Image Segmentation for <b>CURVAS-Abdominal-MultiOrgan</b> based on 
